@@ -8,6 +8,14 @@ Perfect for anyone who wants a lightweight personal finance tool without the com
 
 ---
 
+## 📸 Screenshot
+
+> **Main Interface**
+
+<img width="703" height="528" alt="Screenshot 2025-12-10 195326" src="https://github.com/user-attachments/assets/623d00e3-4fb0-4ffb-8146-43cd1e0c0734" />
+
+---
+
 ## 🚀 Features
 
 * **Add income and expenses** with categories
